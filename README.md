@@ -103,6 +103,21 @@ yarn start
 ```
 4. Copy your server's IP and port into CrewLink settings. Make sure everyone in your lobby is using the same server.
 
+### Updating
+
+1. Navigate to the directory containing the CrewLink server.
+```sh
+cd crewlink-server
+```
+2. Run the update command:
+```sh
+git pull
+```
+3. Ensure NPM packages are up-to-date.
+```sh
+yarn install
+```
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
