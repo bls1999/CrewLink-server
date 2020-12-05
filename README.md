@@ -117,6 +117,7 @@ git pull
 ```sh
 yarn install
 ```
+4. Restart the server (if running).
 
 <!-- CONTRIBUTING -->
 ## Contributing
